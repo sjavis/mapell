@@ -1,5 +1,5 @@
-# ELLib
-A c++ software library containing energy landscape methods utilising MPI parallelisation.
+# MAPELL
+MAPELL (Modular And Parallel Energy Landscape Library) is a c++ software library containing energy landscape methods utilising MPI parallelisation.
 
 Currently implemented:
 - Genetic algorithm
